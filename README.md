@@ -4,8 +4,8 @@
 
 The goal of this project is twofold:
 
-1  Classify received emails as SPAM or NOT SPAM.
-2  Analyze SPAM emails to identify:
+1. Classify received emails as SPAM or NOT SPAM.
+2. Analyze SPAM emails to identify:
   - The main topics.
   - The semantic distance between topics.
   - The organizations mentioned in NOT SPAM emails.
